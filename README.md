@@ -23,6 +23,7 @@ Strong foundation in **Python, SQL, Excel, Power BI**, and **ML-driven financial
 ### 🔹 Programming & Databases
 - **Python**
 - **SQL (MySQL)**
+- **Excel** **Power BI**
 - C / C++ (Embedded Systems)
 
 ### 🔹 Data & Analytics
