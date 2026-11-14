@@ -45,20 +45,6 @@ Strong foundation in **Python, SQL, Excel, Power BI**, and **ML-driven financial
 - Embedded Systems (ESP32, LiDAR)
 
 ---
-
-## 💼 Industry Experience
-
-### 🏦 Software Development Intern — *Bluestock Fintech*  
-**Jun 2025 – Jul 2025 | Virtual**
-
-- Automated **financial data workflows** using Python and MySQL
-- Assisted in building **machine-learning models** for financial insights
-- Developed **Flask dashboards** for real-time visualization
-- Worked on structured datasets used in **investment analysis**
-- Collaborated in agile-style development cycles
-
----
-
 ## 📊 Featured Projects
 
 ### 🔹 Machine Learning Generated Fundamental Analysis
