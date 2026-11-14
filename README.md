@@ -126,19 +126,6 @@ CMR Technical Campus, Hyderabad
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junaiduddin-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaiduddin-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Junaiduddin-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🎯 Career Interests
 
 - Python Developer
