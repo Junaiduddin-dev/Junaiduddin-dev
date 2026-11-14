@@ -1,149 +1,164 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Juneduddin</h1>
-<h3 align="center">Data Analyst | Python Developer | FinTech & ML Enthusiast</h3>
+# 👋 Hi, I'm Juneduddin
+
+### Python Developer | Data Analyst | AI & Full-Stack Developer
+
+<p align="center">
+  <img src="./assets/profile.png" width="180" style="border-radius:50%;" alt="Juneduddin GitHub Profile"/>
+</p>
 
 <p align="center">
   <a href="mailto:junaiduddin066@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/juned-uddin-ba6265258">🔗 LinkedIn</a> •
-  <a href="https://github.com/Junaiduddin-dev">💻 GitHub</a>
+  <a href="https://www.linkedin.com/in/juned-uddin-ba6265258">LinkedIn</a> •
+  <a href="https://github.com/Junaiduddin-dev">GitHub</a>
 </p>
 
 ---
 
-## 🧠 Professional Summary
+## 🚀 About Me
 
-Detail-oriented **Data Analyst and Python Developer** with hands-on experience in **data automation, analytics, visualization, and machine learning pipelines**. Skilled in transforming complex datasets into **actionable business insights**, with practical exposure to **FinTech use-cases**, dashboards, and backend data systems.
+I'm a Computer Engineering graduate specializing in Electronics and Communication Engineering, passionate about building practical software solutions using Python, SQL, Data Analytics, AI, and Full-Stack Development.
 
-Strong foundation in **Python, SQL, Excel, Power BI**, and **ML-driven financial analysis**, complemented by real-world internship experience and multiple analytics projects.
-
----
-
-## 🧰 Tech Stack & Tools
-
-### 🔹 Programming & Databases
-- **Python**
-- **SQL (MySQL)**
-- **Excel**
-- **Power BI**
-- C / C++ (Embedded Systems)
-
-### 🔹 Data & Analytics
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- ETL Pipelines
-- DAX Measures
-- KPI & Metrics Design
-
-### 🔹 Visualization & BI
-- Power BI Dashboards
-- Excel (Advanced formulas, Pivot Tables)
-- Flask-based Web Dashboards
-
-### 🔹 Other Tools
-- Git & GitHub
-- REST APIs
-- Embedded Systems (ESP32, LiDAR)
-
----
-## 📊 Featured Projects
-
-### 🔹 Machine Learning Generated Fundamental Analysis
-> **Python | APIs | ML | MySQL | Flask**
-
-- Built an automated pipeline to fetch **Balance Sheet, P&L, Cash Flow data**
-- Applied ML models to generate **real-time financial insights**
-- Stored structured outputs in **MySQL**
-- Delivered insights via **terminal & web dashboards**
+- 💻 Interested in Python Development, Data Analytics and AI Engineering.
+- 📊 Experienced in building dashboards, ETL pipelines and analytical solutions.
+- 🤖 Exploring Generative AI, LLM applications and intelligent automation.
+- 🔧 Enjoy building real-world applications and solving business problems.
+- 🎯 Currently seeking entry-level opportunities in Software Development, Data Analytics and AI.
 
 ---
 
-### 🔹 Logistics Optimization for Delivery Routes
-> **SQL | Data Cleaning | Operations Analytics**
+## 🛠️ Technical Skills
 
-- Cleaned large logistics datasets (duplicates, nulls, date anomalies)
-- Designed SQL queries to analyze:
-  - Route efficiency  
-  - Warehouse delays  
-  - Delivery agent performance
-- Generated insights for **large-scale e-commerce operations**
+**Programming Languages**
+- Python, SQL, C, C++
 
----
+**Frontend Development**
+- HTML, CSS, JavaScript, React, Tailwind CSS
 
-### 🔹 Retail Customer Retention Analytics
-> **Power BI | DAX | Customer Analytics**
+**Backend Development**
+- Flask, Node.js, Express.js, Spring Boot, REST APIs
 
-- Built interactive Power BI dashboards
-- Modeled customer journeys & purchase behavior
-- Created DAX measures for:
-  - Retention rate  
-  - Repeat purchase metrics  
-- Delivered insights to support **targeted retention strategies**
+**Databases**
+- MySQL, PostgreSQL, SQLite
 
----
+**Data Analytics & Visualization**
+- Power BI, Microsoft Excel, Pandas, NumPy, Matplotlib, Plotly, DAX
 
-### 🔹 Social Media Analytics for Strategic Branding
-> **Excel | Data Analysis | Marketing Insights**
+**AI & Machine Learning**
+- Scikit-learn, TensorFlow, Generative AI, Gemini API, Anomaly Detection
 
-- Analyzed engagement datasets using advanced Excel techniques
-- Identified audience behavior and content performance trends
-- Produced insights to guide **branding and marketing decisions**
+**Tools & Platforms**
+- Git, GitHub, VS Code, Jupyter Notebook, Streamlit, Postman
 
 ---
 
-### 🔹 Wi-Fi Enabled Standalone LiDAR
-> **Embedded Systems | ESP | Wireless Communication**
+## 📌 Featured Projects
 
-- Designed a standalone LiDAR system with real-time data transmission
-- Integrated Wi-Fi for untethered operation
-- Applied embedded programming principles
+### 1. YottaFlex – Manufacturing Quality & Defect Traceability System
+**Python | SQLite | SQLAlchemy | Pandas | Streamlit | Plotly**
 
----
+- Designed a relational manufacturing database containing 15 tables.
+- Generated 88,049 synthetic manufacturing records.
+- Implemented end-to-end defect traceability across production, machines, materials and suppliers.
+- Developed anomaly detection scenarios and business-rule validation.
+- Built an interactive Streamlit dashboard for quality monitoring and CAPA management.
 
-### 🔹 Optical Flow Based Motion Detector (ESP32)
-> **Computer Vision | Embedded C/C++**
+### 2. Smart Procurement & Purchase Order Management System
+**React | Vite | Spring Boot | Spring Security | MySQL**
 
-- Implemented optical flow algorithms on ESP32
-- Enabled real-time motion detection
-- Built efficient embedded modules for sensor communication
+- Built a full-stack procurement management application.
+- Implemented multi-level approval workflows involving Manager, Finance and Procurement Head.
+- Developed REST APIs for approval routing and purchase-order management.
+- Integrated role-based access control, audit logging and email notifications.
+- Implemented analytics dashboards and PDF/Excel reporting.
+
+### 3. SkillBridge AI – Agentic Career Intelligence Tool
+**Python | Streamlit | Gemini API | PyPDF2**
+
+- Developed an AI-powered career intelligence application.
+- Integrated PDF resume and job-description processing.
+- Used Gemini API to analyze skills and identify competency gaps.
+- Generated structured JSON outputs for career insights.
+- Deployed the application using Streamlit Cloud.
+
+### 4. E-Commerce Sales MIS Dashboard
+**Python | SQL | Power BI | Pandas | Scikit-learn**
+
+- Processed 9,800+ sales records using Python and SQL.
+- Built automated data cleaning and transformation pipelines.
+- Created interactive Power BI dashboards with DAX measures.
+- Analyzed revenue, branch performance and delivery turnaround time.
+
+### 5. Financial Risk MIS & Anomaly Detection System
+**Python | MySQL | Machine Learning | Statistics**
+
+- Developed ETL pipelines for financial datasets.
+- Implemented Z-score, IQR and Isolation Forest algorithms.
+- Built an anomaly detection workflow for financial transactions.
+- Achieved 90%+ anomaly flagging accuracy on test data.
+
+### 6. Retail Customer Retention Dashboard
+**Python | Power BI | Excel | DAX**
+
+- Conducted customer cohort and retention analysis.
+- Analyzed six retail customer segments.
+- Developed dashboards for repeat purchases and customer churn.
+- Investigated a 22% Q3 churn spike using hypothesis testing.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Electronics & Communication Engineering**  
-CMR Technical Campus | *2021 – 2025*  
+**Bachelor of Technology – Electronics & Communication Engineering**
+
+CMR Technical Campus, Hyderabad  
+2021 – 2025
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications
 
-- **Data Science** — Internshala  
-  *(Excel, SQL, Power BI, Analytics)*
-- **RPA Developer** — UiPath
-- **Data Analytics & Visualization Simulation** — Forage
-- **Problem Solving (Gold Rank – Top 5%)** — HackerRank
-- **Computer Architecture** — NPTEL (IIT Madras)
-- **C Programming** — IIT Bombay (Spoken Tutorial)
+- Data Science – Internshala
+- RPA Developer – UiPath
+- Data Analytics & Visualization Simulation – Forage
+- Problem Solving – HackerRank (Gold Rank, Top 5%)
+- Computer Architecture – NPTEL (IIT Madras)
+- C Programming – IIT Bombay (Spoken Tutorial)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Junaiduddin-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaiduddin-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Junaiduddin-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 🎯 Career Interests
 
-- Data Analyst / Business Analyst
 - Python Developer
-- FinTech & Financial Analytics
-- Business Intelligence & Reporting
+- Data Analyst
+- Software Engineer
+- AI / ML Developer
+- Business Intelligence Analyst
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-I’m actively seeking **entry-level opportunities** where I can apply data, analytics, and programming skills to solve real-world business problems.
+I'm actively looking for opportunities where I can contribute my technical skills, build meaningful applications and grow as a software professional.
 
-📧 **Email:** junaiduddin066@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/juned-uddin-ba6265258  
-💻 **GitHub:** https://github.com/Junaiduddin-dev  
+<p align="center">
+  <a href="mailto:junaiduddin066@gmail.com">📧 Email Me</a> |
+  <a href="https://www.linkedin.com/in/juned-uddin-ba6265258">🔗 LinkedIn</a> |
+  <a href="https://github.com/Junaiduddin-dev">💻 GitHub</a>
+</p>
 
----
-
-⭐ *If you find my projects useful, consider starring the repositories!*
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
+</p>
